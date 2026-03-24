@@ -1,0 +1,11 @@
+id = "cram"
+name = "cram"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hongyu Lin"]
+description = "Cram test file support for Zed."
+repository = "https://github.com/hon-gyu/cram-zed"
+
+[grammars.cram]
+repository = "https://github.com/tjdevries/tree-sitter-cram"
+commit = "8cb450dfc5548b1aed2be5b3cd735c123b6fa6a8"

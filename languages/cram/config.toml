@@ -1,0 +1,4 @@
+name = "cram"
+grammar = "cram"
+path_suffixes = ["t"]
+tab_size = 2

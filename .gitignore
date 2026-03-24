@@ -1,1 +1,6 @@
+.DS_Store
+target/
+*.wasm
 .env
+.envrc
+.claude/
